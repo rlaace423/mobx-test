@@ -1,3 +1,15 @@
+### To-do List
+
+- [X] 템플릿 - CRA with Typescript
+- [x] eslint + prettier
+- [x] 템플릿에 airbnb 룰 에러없이 적용
+- [ ] 장바구니 예제 테스트(typescript) && 구조 눈에 익히기
+- [ ] React Router 검색
+- [ ] 추가 페이지 생성하여 라우터 테스트
+- [ ] 추가 페이지에 외부 데이터 연동 (for repository, etc.)
+- [ ] react-intl 적용 (다국어 지원)
+- [ ] Material-UI 적용
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
