@@ -4,6 +4,7 @@
 - [x] eslint + prettier
 - [x] 템플릿에 airbnb 룰 에러없이 적용
 - [ ] 장바구니 예제 테스트(typescript) && 구조 눈에 익히기
+- [ ] React Hooks + MobX [블로그 예제](https://velog.io/@honeysuckle/MobX%EB%A5%BC-React-Hooks-TypeScript-%EC%99%80-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EB%B0%A9%EB%B2%95)
 - [ ] React Router 검색
 - [ ] 추가 페이지 생성하여 라우터 테스트
 - [ ] 추가 페이지에 외부 데이터 연동 (for repository, etc.)
